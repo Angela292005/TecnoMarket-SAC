@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542715160929",
+    "project_id": "tecno-market-9ae08",
+    "storage_bucket": "tecno-market-9ae08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542715160929:android:72a03e6cee40b313c9fd20",
+        "android_client_info": {
+          "package_name": "com.company.tecnomarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9KGGTk_gHePztwsHgkFVIewgwRYjX1Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
